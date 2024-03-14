@@ -1,7 +1,7 @@
 Real Estate Prediction: 
 
-Download the dataset below to solve this Data Science case study on real estate prediction.
-[https://statso.io/wp-content/uploads/2023/12/Real_Estate.csv](url)
+Download the dataset below to solve this Data Science case study on real estate prediction.//
+[https://statso.io/wp-content/uploads/2023/12/Real_Estate.csv](Download)
 
 Real Estate Price prediction plays a crucial role in both the real estate market and the economy at large. For investors, developers, and homeowners, accurate price predictions facilitate informed decision-making, investment planning, and risk management.
 
